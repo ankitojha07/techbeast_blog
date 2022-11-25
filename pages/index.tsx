@@ -26,13 +26,17 @@ export default function Home() {
             <p>Next JS tutorials for everyone.</p>
           
           </Link>
-          <Link href="/learn/ReactJs" className={styles.card}>
+          <Link href="/learn/react" className={styles.card}>
             <h2>Learn React JS &rarr;</h2>
             <p>React JS tutorial for everyone.</p>
             </Link>
-          <Link href="/learn/Vanilla JS" className={styles.card}>
-            <h2>Learn Vanilla JS &rarr;</h2>
-            <p>Vanilla JS tutorial for everyone.</p>
+          <Link href="/learn/vue" className={styles.card}>
+            <h2>Learn Vue JS &rarr;</h2>
+            <p>Vue JS tutorial for everyone.</p>
+            </Link>
+          <Link href="/learn/angular" className={styles.card}>
+            <h2>Learn Angular JS &rarr;</h2>
+            <p>Angular JS tutorial for everyone.</p>
             </Link>
         </div>
         <h3 className={styles.heading3}>Social Profiles!</h3>

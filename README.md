@@ -1,8 +1,7 @@
-# This is my Blogging website.
+# This project is for learning only -
 
 ## Technology used : 
  - Next JS
- - GraphQL
  - React
  - Typescript
 

@@ -36,7 +36,7 @@ export default function Home() {
             </Link>
           <Link href="/learn/angular" className={styles.card}>
             <h2>Learn Angular JS &rarr;</h2>
-            <p>Angular JS tutorial for everyone.</p>
+            <p>Angular JS tutorial for beginners.</p>
             </Link>
         </div>
         <h3 className={styles.heading3}>Social Profiles!</h3>

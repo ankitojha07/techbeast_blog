@@ -1,7 +1,7 @@
 import { useState } from "react"
 import React from 'react'
 
-const map = () => {
+const hooksReact = () => {
     const initialCount =0
     const [count,setCount] = useState(initialCount)
   return (
@@ -14,4 +14,4 @@ const map = () => {
   )
 }
 
-export default map
+export default hooksReact

@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import HooksReact from '../pages/learn/hooksReact'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -37,6 +38,9 @@ export default function Home() {
           <Link href="/learn/angular" className={styles.card}>
             <h2>Learn Angular JS &rarr;</h2>
             <p>Angular JS tutorial for beginners.</p>
+            </Link>
+          <Link href="/learn/hooksReact" className={styles.card}>
+            <HooksReact/>
             </Link>
         </div>
         <h3 className={styles.heading3}>Social Profiles!</h3>

@@ -49,7 +49,7 @@ export default function Home() {
         <a
             href="https://instagram.com/ankittojha"
             target="_blank"
-            className={styles.card}
+            className={styles.cardInsta}
           >
             <h2>Instagram &rarr;</h2>
             <p>
@@ -57,7 +57,7 @@ export default function Home() {
             </p>
           </a>
         <a
-            href="https://github.com/techbeast69"
+            href="https://github.com/ankitojha07"
             target="_blank"
             className={styles.card}
           >
@@ -67,11 +67,21 @@ export default function Home() {
             </p>
           </a>
         <a
-            href="https://linkedin.com/ankitojha07"
+            href="https://linkedin.com/in/ankitojha07"
             target="_blank"
             className={styles.card}
           >
             <h2>LinkedIn &rarr;</h2>
+            <p>
+              LinkedIn Profile of Techbeast69
+            </p>
+          </a>
+        <a
+            href="https://Youtube.com/@techbeast69"
+            target="_blank"
+            className={styles.cardYt}
+          >
+            <h2>Youtube Page &rarr;</h2>
             <p>
               LinkedIn Profile of Techbeast69
             </p>
@@ -81,7 +91,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://techbeast69.netlify.app/"
+          href="https://ankitojha.netlify.app/"
           target="_blank"
         >
           Powered by{'  '} <span> _</span> <h3> Ankt Ojha</h3>

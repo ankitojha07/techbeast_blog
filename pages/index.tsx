@@ -40,7 +40,8 @@ export default function Home() {
             <p>Angular JS tutorial for beginners.</p>
             </Link>
           <Link href="/learn/hooksReact" className={styles.card}>
-            <HooksReact/>
+            <h2>Learn about React Hooks</h2>
+            <p>Click here to get the working example of react hooks.</p>
             </Link>
         </div>
         <h3 className={styles.heading3}>Social Profiles!</h3>

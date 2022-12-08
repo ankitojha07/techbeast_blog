@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Techbeast Blog</title>
         <meta name="description" content="Learning project for Next JS" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="" />
       </Head>
 
       <main className={styles.main}>

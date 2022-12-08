@@ -92,7 +92,7 @@ export default function Home() {
           href="https://ankitojha.netlify.app/"
           target="_blank"
         >
-          Powered by{'  '} <span> _</span> <h3> Ankt Ojha</h3>
+          Created by - {'  '} <span> _</span> <h3> Ankt Ojha</h3>
         </a>
       </footer>
     </div>

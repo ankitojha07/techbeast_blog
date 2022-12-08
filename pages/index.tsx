@@ -8,12 +8,12 @@ export default function Home() {
       <Head>
         <title>Techbeast Blog</title>
         <meta name="description" content="Learning project for Next JS" />
-        <link rel="icon" href="" />
+        
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://techbeast69.netlify.app">Techbeast69</a>
+          Welcome to <a href="https://ankitojha.netlify.app">Techbeast69</a>
         </h1>
 
         <h3 className={styles.heading3}>Learning Materials!</h3>

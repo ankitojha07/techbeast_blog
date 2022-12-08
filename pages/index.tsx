@@ -25,18 +25,6 @@ export default function Home() {
             <p>Next JS tutorials for everyone.</p>
           
           </Link>
-          <Link href="/learn/react" className={styles.card}>
-            <h2>Learn React JS &rarr;</h2>
-            <p>React JS tutorial for everyone.</p>
-            </Link>
-          <Link href="/learn/vue" className={styles.card}>
-            <h2>Learn Vue JS &rarr;</h2>
-            <p>Vue JS tutorial for everyone.</p>
-            </Link>
-          <Link href="/learn/angular" className={styles.card}>
-            <h2>Learn Angular JS &rarr;</h2>
-            <p>Angular JS tutorial for beginners.</p>
-            </Link>
           <Link href="/learn/hooksReact" className={styles.card}>
             <h2>Learn about React Hooks</h2>
             <p>Click here to get the working example of react hooks.</p>
